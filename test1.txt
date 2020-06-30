@@ -3,6 +3,7 @@ hello11
 hello111
 hello1111
 
+<<<<<<< HEAD
 hello1
 hello11
 hello111
@@ -17,3 +18,5 @@ hello1111
 Hellow it is my new line code 
 
 
+=======
+>>>>>>> FETCH_HEAD
